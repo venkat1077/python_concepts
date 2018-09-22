@@ -1,2 +1,2 @@
 # python_concepts
-python concepts with sample programs
+Programs to understand python concepts
