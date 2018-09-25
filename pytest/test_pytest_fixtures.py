@@ -7,7 +7,7 @@
 import pytest
 
 
-# here scope is module level so it will run only once else it will run for before all test functions
+# here scope is module level so it will run only once else it will run before all test functions
 @pytest.fixture(scope="module")
 def my_setup_fixture():
     print "Setting up"
